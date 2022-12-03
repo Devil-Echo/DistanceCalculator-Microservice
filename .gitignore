@@ -1,0 +1,14 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+#ignore vscode file
+.vscode/
+
+#ignore node modiles folder
+node_modules/
+
+#ignore env variables
+.env
